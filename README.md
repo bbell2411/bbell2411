@@ -1,4 +1,4 @@
-- 👋 Hi, I’m bell :)
+- 👋 Hi, I’m Bell :)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript and full stack developement
 - 😄 Pronouns: she/her
