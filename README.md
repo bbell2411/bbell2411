@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bell :)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript and full stack developement
+- 🌱 I’m currently learning JavaScript and full stack development
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love gaming ;)
 
