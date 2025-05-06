@@ -3,7 +3,7 @@
 I'm a **Junior Full Stack Developer** who builds both **web and mobile applications** using **JavaScript**, **React**, **React Native**, **Node.js**, **PostgreSQL**, and **TypeScript**. I enjoy creating apps that bring people together — like *Knowva*, a collaborative study app with quizzes, group chats, and score tracking.
 
 🧪 Also experienced in QA and testing with **Playwright**, **Jest**, and **Supertest**  
-🔐 Currently learning: authentication and web security  
+🔐 Currently learning: authentication and web security, and desktop development with Electron
 🎮 Fun fact: I’m a lifelong gamer and would love to work on game-related or community-based apps  
 💼 Open to junior roles in **development** or **QA** (manual or automated testing)
 
