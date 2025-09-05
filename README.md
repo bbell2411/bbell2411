@@ -6,7 +6,7 @@ I'm a **Full Stack Developer** who builds both **web and mobile applications** u
 - 🔐 Currently learning: authentication and web security, and Blockchain development & Web3 technologies (smart contracts, wallet integration, decentralized apps)
 - 🎯 my goal is to master Python frameworks for backend and machine learning.
 - 🎮 Fun fact: I’m a lifelong gamer and would love to work on game-related or community-based apps  
-- 💼 Open to roles in **development** 
+
 
 <!---
 bbell2411/bbell2411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
