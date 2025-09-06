@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Belkise (Bell)
 
-I'm a **Full Stack Developer** who builds both **web and mobile applications** using **JavaScript**, **React**, **React Native**, **Node.js**, **PostgreSQL**, and **TypeScript**. I love creating apps that bring people together - especially tools that support learning, community, communication, or simply entertainment.
+I'm a **Full Stack Developer** who builds **web and mobile applications** using **JavaScript**, **React**/**Native**, **Node.js**, **Python**, **PostgreSQL**, and **TypeScript**. I love creating apps that bring people together - especially tools that support learning, community, communication, or simply entertainment.
 
-- 🧪 Also experienced in QA and testing with **Playwright**, **Jest**, and **Supertest**  
-- 🔐 Currently learning: authentication and web security, and Blockchain development & Web3 technologies (smart contracts, wallet integration, decentralized apps)
-- 🎯 my goal is to master Python frameworks for backend and machine learning.
+- 🐍 Currently diving deep into **Python** backend development with **Django** and **FastAPI**
+- 🧪 Also experienced in QA and testing with **Playwright**, **Jest**, and **Supertest**
+- 🤖 Self-teaching **machine learning** with Python as a hobby project
 - 🎮 Fun fact: I’m a lifelong gamer and would love to work on game-related or community-based apps  
 
 
