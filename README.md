@@ -4,7 +4,9 @@ I'm a **Full Stack Developer** who builds **web and mobile applications** using 
 
 - 🐍 Currently diving deep into **Python** backend development with **Django** and **FastAPI**
 - 🤖 Self-teaching **machine learning** with Python as a hobby project
-- 🎮 Fun fact: I’m a lifelong gamer and would love to work on game-related or community-based apps  
+- 🎮 Fun fact: I’m a lifelong gamer and would love to work on game-related or community-based apps
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
 
 
 <!---
